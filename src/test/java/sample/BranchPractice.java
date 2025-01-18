@@ -8,5 +8,6 @@ public class BranchPractice {
 	public void branch()
 	{
 		System.out.println("Hello");
+		System.out.println("Branch");
 	}
 }
